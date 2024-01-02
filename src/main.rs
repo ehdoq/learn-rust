@@ -1,3 +1,9 @@
 fn main() {
-    println!("Hello CodeSandbox!");
+    // single line comment
+    /*
+        multi-line
+        comment
+    */
+    println!("Hello, world!");
+    // Output: Hello, world!
 }
